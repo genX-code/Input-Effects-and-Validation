@@ -84,6 +84,7 @@ input.invalid-content ~ .focus-border {
 
 input.invalid-content ~ label {
   color: lightcoral;
+  font-weight: bold;
 }
 
 /* Remove Yellow BG in Autocomplete */
